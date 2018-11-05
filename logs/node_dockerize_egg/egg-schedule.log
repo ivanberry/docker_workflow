@@ -1,0 +1,12 @@
+2018-11-03 16:09:24,789 INFO 3687 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-04 00:00:00.000
+2018-11-03 16:09:24,790 INFO 3687 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-04 00:00:01.000
+2018-11-03 18:26:18,556 INFO 3950 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-04 00:00:00.000
+2018-11-03 18:26:18,557 INFO 3950 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-04 00:00:01.000
+2018-11-03 19:32:57,331 INFO 4514 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-04 00:00:00.000
+2018-11-03 19:32:57,331 INFO 4514 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-04 00:00:01.000
+2018-11-03 20:28:25,805 INFO 6120 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-04 00:00:00.000
+2018-11-03 20:28:25,806 INFO 6120 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-04 00:00:01.000
+2018-11-03 20:55:49,886 INFO 6742 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-04 00:00:00.000
+2018-11-03 20:55:49,887 INFO 6742 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-04 00:00:01.000
+2018-11-04 06:50:14,338 INFO 7725 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-05 00:00:00.000
+2018-11-04 06:50:14,338 INFO 7725 [Timer] /Users/tab/temp/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-05 00:00:01.000

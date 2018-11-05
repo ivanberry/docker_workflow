@@ -1,0 +1,14 @@
+[
+  {
+    "name": "topics",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/v2/topics",
+    "regexp": "/^\\/api\\/v2\\/topics(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  }
+]

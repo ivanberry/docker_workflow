@@ -1,0 +1,951 @@
+2018-11-03 16:27:54,543 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 289552ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 16:36:54,491 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 499923ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 16:47:05,900 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 271266ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 16:56:38,281 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 530954ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 17:06:37,537 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 559243ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 17:16:18,007 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 560450ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 17:26:20,282 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 561277ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 17:36:37,615 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 577536ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 17:46:55,013 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 577385ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 17:56:53,211 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 578183ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 18:06:23,895 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 530653ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 18:12:50,199 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 346280ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 18:24:37,127 ERROR 3687 nodejs.ClusterClientNoResponseError: client no response in 526785ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 3687
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:33:16,607 ERROR 4515 [-/::1/-/3ms GET /news] nodejs.TypeError: ctx.service.news.list is not a function
+    at NewsController.list (/Users/tab/temp/egg-example/app/controller/news.js:7:43)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 4515
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:34:47,981 ERROR 4522 [-/::1/-/5031ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5020,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4522
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:35:07,862 ERROR 4522 [-/::1/-/5009ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5007,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4522
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:35:16,281 ERROR 4522 [-/::1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4522
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:38:08,412 ERROR 4522 [-/::1/-/5005ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":4,"createSocketErrorCount":0,"closeSocketCount":4,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 4
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4522
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:39:52,552 ERROR 4522 [-/::1/-/5004ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":5,"createSocketErrorCount":0,"closeSocketCount":5,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 5
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4522
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:40:48,837 ERROR 4554 [-/::1/-/5030ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5018,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4554
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:44:55,248 ERROR 4566 [-/::1/-/5033ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item18364518.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":447,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::":446},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 5
+data: undefined
+path: "/v0/item18364518.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5001,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/item18364518.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4566
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:45:19,919 ERROR 4572 [-/::1/-/5031ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item/18369384.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":447,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::":446},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/v0/item/18369384.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5002,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/item/18369384.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4572
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:45:46,197 ERROR 4572 [-/::1/-/5007ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item/18364518.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":894,"createSocketErrorCount":0,"closeSocketCount":448,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::":446},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 452
+data: undefined
+path: "/v0/item/18364518.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5001,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/item/18364518.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4572
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 19:46:30,708 ERROR 4572 [-/::1/-/5009ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item/18365851.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1341,"createSocketErrorCount":0,"closeSocketCount":895,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::":446},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 907
+data: undefined
+path: "/v0/item/18365851.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5001,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/item/18365851.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4572
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 20:00:19,988 ERROR 4596 [-/::1/-/5035ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item/18367381.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":447,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::":446},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/tab/temp/egg-example/node_modules/urllib/lib/urllib.js:849:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/item/18367381.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/item/18367381.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 4596
+hostname: Tab-F2Es-MacBook-Pro.local
+
+2018-11-03 21:15:19,436 ERROR 6860 [-/127.0.0.1/-/1ms POST /api/v2/topics] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: eunm
+    at Parameter.validate (/Users/tab/temp/egg-example/node_modules/parameter/index.js:104:15)
+    at Object.validate (/Users/tab/temp/egg-example/node_modules/egg-validate/app/extend/context.js:12:39)
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:14:7)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:346:16
+
+pid: 6860
+hostname: mpj-dev.local
+
+2018-11-03 21:15:40,603 ERROR 6867 [-/127.0.0.1/-/14ms POST /api/v2/topics] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: eunm
+    at Parameter.validate (/Users/tab/temp/egg-example/node_modules/parameter/index.js:104:15)
+    at Object.validate (/Users/tab/temp/egg-example/node_modules/egg-validate/app/extend/context.js:12:39)
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:13:7)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:346:16
+
+pid: 6867
+hostname: mpj-dev.local
+
+2018-11-03 21:18:45,905 ERROR 6867 [-/127.0.0.1/-/0ms POST /api/v2/topics] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: eunm
+    at Parameter.validate (/Users/tab/temp/egg-example/node_modules/parameter/index.js:104:15)
+    at Object.validate (/Users/tab/temp/egg-example/node_modules/egg-validate/app/extend/context.js:12:39)
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:13:7)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:346:16
+
+pid: 6867
+hostname: mpj-dev.local
+
+2018-11-03 21:19:16,362 ERROR 6884 [-/127.0.0.1/-/14ms POST /api/v2/topics] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: eunm
+    at Parameter.validate (/Users/tab/temp/egg-example/node_modules/parameter/index.js:104:15)
+    at Object.validate (/Users/tab/temp/egg-example/node_modules/egg-validate/app/extend/context.js:12:39)
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:13:7)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:346:16
+
+pid: 6884
+hostname: mpj-dev.local
+
+2018-11-03 21:20:07,079 ERROR 6888 [-/127.0.0.1/-/15ms POST /api/v2/topics] nodejs.ReferenceError: ctx is not defined
+    at new TopicService (/Users/tab/temp/egg-example/app/service/topics.js:5:9)
+    at getInstance (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:14:32)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+
+pid: 6888
+hostname: mpj-dev.local
+
+2018-11-03 21:20:51,476 ERROR 6896 [-/127.0.0.1/-/380ms POST /api/v2/topics] nodejs.ReferenceError: error_msg is not defined
+    at TopicService.checkSuccess (/Users/tab/temp/egg-example/app/service/topics.js:25:8)
+    at TopicService.create (/Users/tab/temp/egg-example/app/service/topics.js:17:8)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 6896
+hostname: mpj-dev.local
+
+2018-11-03 21:37:07,568 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 242542ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 21:46:38,799 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 531201ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 21:56:57,053 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578226ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 22:06:36,424 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 559349ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 22:16:54,686 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578225ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 22:26:25,859 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 531093ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 22:36:23,154 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577233ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 22:46:41,369 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578114ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 22:56:41,317 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 559819ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 23:06:59,449 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 23:16:59,091 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 559388ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 23:26:39,066 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 559961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 23:36:40,820 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561280ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 23:46:41,162 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560320ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-03 23:56:38,914 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577736ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 00:06:57,171 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577749ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 00:16:58,005 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560334ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 00:26:37,674 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 559662ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 00:36:39,647 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561218ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 00:56:09,354 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 531495ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 01:06:27,556 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577617ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 01:16:44,861 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 576715ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 01:26:26,009 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560435ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 01:36:28,030 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561206ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 01:46:45,469 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577423ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 01:56:46,689 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560432ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 02:06:45,993 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578535ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 02:17:04,200 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577606ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 02:26:36,001 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 531222ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 02:36:32,645 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 576637ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 02:46:35,428 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 562123ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 02:56:35,854 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560405ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 03:06:33,635 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577768ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 03:16:34,895 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 03:46:50,745 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577260ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 03:56:51,982 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561218ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 04:06:33,210 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561213ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 04:16:34,417 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561186ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 04:26:52,628 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578194ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 04:37:10,892 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578242ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 04:46:51,024 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 500099ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 04:56:49,294 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578257ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 05:06:20,493 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 531181ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 05:16:37,735 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 577223ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 05:26:18,078 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560333ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 05:36:36,321 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578229ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 05:46:36,563 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560233ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 05:56:18,011 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561430ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 06:06:18,368 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 560329ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 06:16:36,593 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578205ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 06:26:37,878 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 561273ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 06:36:36,139 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 578246ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 06:43:59,367 ERROR 6742 nodejs.ClusterClientNoResponseError: client no response in 403211ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 6742
+hostname: mpj-dev.local
+
+2018-11-04 06:59:22,600 ERROR 7853 [egg-mongoose] mongodb://127.0.0.1/example disconnected
+2018-11-04 07:17:08,687 ERROR 7725 nodejs.ClusterClientNoResponseError: client no response in 102992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 7725
+hostname: mpj-dev.local
+
+2018-11-04 07:27:09,947 ERROR 7725 nodejs.ClusterClientNoResponseError: client no response in 501223ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 7725
+hostname: mpj-dev.local
+
+2018-11-04 07:37:14,836 ERROR 7725 nodejs.ClusterClientNoResponseError: client no response in 264771ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tab/temp/egg-example/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 7725
+hostname: mpj-dev.local
+
+2018-11-04 08:00:11,416 ERROR 8080 nodejs.ObjectParameterError: Parameter "obj" to Document() must be an object, got testfafafafafa
+    at new ObjectParameterError (/Users/tab/temp/egg-example/node_modules/mongoose/lib/error/objectParameter.js:25:11)
+    at model.Document (/Users/tab/temp/egg-example/node_modules/mongoose/lib/document.js:68:11)
+    at model.Model (/Users/tab/temp/egg-example/node_modules/mongoose/lib/model.js:90:12)
+    at new model (/Users/tab/temp/egg-example/node_modules/mongoose/lib/model.js:4367:13)
+    at toExecute.push.callback (/Users/tab/temp/egg-example/node_modules/mongoose/lib/model.js:2636:22)
+    at /Users/tab/temp/egg-example/node_modules/async/internal/parallel.js:31:39
+    at eachOfArrayLike (/Users/tab/temp/egg-example/node_modules/async/eachOf.js:65:9)
+    at exports.default (/Users/tab/temp/egg-example/node_modules/async/eachOf.js:9:5)
+    at _parallel (/Users/tab/temp/egg-example/node_modules/async/internal/parallel.js:30:5)
+    at parallelLimit (/Users/tab/temp/egg-example/node_modules/async/parallel.js:88:26)
+    at utils.promiseOrCallback.cb (/Users/tab/temp/egg-example/node_modules/mongoose/lib/model.js:2646:5)
+    at Promise (/Users/tab/temp/egg-example/node_modules/mongoose/lib/utils.js:246:5)
+    at new Promise (<anonymous>)
+    at Object.promiseOrCallback (/Users/tab/temp/egg-example/node_modules/mongoose/lib/utils.js:245:10)
+    at Function.create (/Users/tab/temp/egg-example/node_modules/mongoose/lib/model.js:2607:16)
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:17:18)
+message: "Parameter \"obj\" to Document() must be an object, got testfafafafafa"
+name: "ObjectParameterError"
+pid: 8080
+hostname: mpj-dev.local
+
+2018-11-04 08:00:36,121 ERROR 8086 [-/127.0.0.1/-/15ms POST /api/v2/topics] nodejs.ReferenceError: contenta is not defined
+    at TopicController.create (/Users/tab/temp/egg-example/app/controller/topics.js:17:34)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/tab/temp/egg-example/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tab/temp/egg-example/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-compose/index.js:42:32)
+    at errorHandler (/Users/tab/temp/egg-example/app/middleware/error_handler.js:4:10)
+    at fn (/Users/tab/temp/egg-example/node_modules/egg-core/lib/loader/mixin/middleware.js:108:12)
+    at dispatch (/Users/tab/temp/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/tab/temp/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+
+pid: 8086
+hostname: mpj-dev.local
+
