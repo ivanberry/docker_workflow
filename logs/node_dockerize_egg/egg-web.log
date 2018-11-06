@@ -1535,3 +1535,656 @@
 2018-11-05 10:36:16,957 WARN 84 [ClusterClient:Watcher] follower closed, and try to init it again
 2018-11-05 23:30:07,664 WARN 84 [ClusterClient:Watcher] follower closed, and try to init it again
 2018-11-06 00:24:39,332 WARN 84 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-06 00:34:13,081 INFO 105 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:34:13,273 INFO 105 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:34:13,273 INFO 105 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:34:13,274 INFO 105 [egg-multipart] stream mode enable
+2018-11-06 00:34:15,477 INFO 105 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:34:16,114 INFO 105 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:34:16,130 INFO 105 [egg-security] use methodnoallow middleware
+2018-11-06 00:34:16,136 INFO 105 [egg-security] use noopen middleware
+2018-11-06 00:34:16,149 INFO 105 [egg-security] use nosniff middleware
+2018-11-06 00:34:16,153 INFO 105 [egg-security] use xssProtection middleware
+2018-11-06 00:34:16,157 INFO 105 [egg-security] use xframe middleware
+2018-11-06 00:34:16,162 INFO 105 [egg-security] use dta middleware
+2018-11-06 00:34:16,162 INFO 105 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:34:16,209 INFO 105 [egg:core] dump config after load, 16ms
+2018-11-06 00:34:16,214 INFO 105 [egg-mongoose] starting...
+2018-11-06 00:34:16,281 INFO 105 [egg-watcher:application] watcher start success
+2018-11-06 00:34:16,291 INFO 105 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:34:16,293 INFO 105 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:34:16,315 INFO 105 [egg:core] dump config after ready, 17ms
+2018-11-06 00:36:34,738 INFO 117 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:36:35,015 INFO 117 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:36:35,015 INFO 117 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:36:35,016 INFO 117 [egg-multipart] stream mode enable
+2018-11-06 00:36:37,869 INFO 117 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:36:38,562 INFO 117 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:36:38,597 INFO 117 [egg-security] use methodnoallow middleware
+2018-11-06 00:36:38,606 INFO 117 [egg-security] use noopen middleware
+2018-11-06 00:36:38,623 INFO 117 [egg-security] use nosniff middleware
+2018-11-06 00:36:38,629 INFO 117 [egg-security] use xssProtection middleware
+2018-11-06 00:36:38,635 INFO 117 [egg-security] use xframe middleware
+2018-11-06 00:36:38,640 INFO 117 [egg-security] use dta middleware
+2018-11-06 00:36:38,640 INFO 117 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:36:38,700 INFO 117 [egg:core] dump config after load, 18ms
+2018-11-06 00:36:38,706 INFO 117 [egg-mongoose] starting...
+2018-11-06 00:36:38,764 INFO 117 [egg-watcher:application] watcher start success
+2018-11-06 00:36:38,773 INFO 117 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:36:38,775 INFO 117 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:36:38,796 INFO 117 [egg:core] dump config after ready, 17ms
+2018-11-06 00:51:42,903 INFO 62 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:51:43,075 INFO 62 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:51:43,076 INFO 62 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:51:43,076 INFO 62 [egg-multipart] stream mode enable
+2018-11-06 00:51:45,570 INFO 62 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:51:46,198 INFO 62 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:51:46,214 INFO 62 [egg-security] use methodnoallow middleware
+2018-11-06 00:51:46,218 INFO 62 [egg-security] use noopen middleware
+2018-11-06 00:51:46,230 INFO 62 [egg-security] use nosniff middleware
+2018-11-06 00:51:46,233 INFO 62 [egg-security] use xssProtection middleware
+2018-11-06 00:51:46,236 INFO 62 [egg-security] use xframe middleware
+2018-11-06 00:51:46,239 INFO 62 [egg-security] use dta middleware
+2018-11-06 00:51:46,239 INFO 62 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:51:46,287 INFO 62 [egg:core] dump config after load, 15ms
+2018-11-06 00:51:46,293 INFO 62 [egg-mongoose] starting...
+2018-11-06 00:51:46,360 INFO 62 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:51:46,363 INFO 62 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:51:46,367 INFO 62 [egg-watcher:application] watcher start success
+2018-11-06 00:51:46,390 INFO 62 [egg:core] dump config after ready, 19ms
+2018-11-06 00:56:14,558 INFO 61 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:56:14,756 INFO 61 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:56:14,756 INFO 61 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:56:14,757 INFO 61 [egg-multipart] stream mode enable
+2018-11-06 00:56:16,990 INFO 61 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:56:17,555 INFO 61 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:56:17,575 INFO 61 [egg-security] use methodnoallow middleware
+2018-11-06 00:56:17,582 INFO 61 [egg-security] use noopen middleware
+2018-11-06 00:56:17,595 INFO 61 [egg-security] use nosniff middleware
+2018-11-06 00:56:17,601 INFO 61 [egg-security] use xssProtection middleware
+2018-11-06 00:56:17,605 INFO 61 [egg-security] use xframe middleware
+2018-11-06 00:56:17,609 INFO 61 [egg-security] use dta middleware
+2018-11-06 00:56:17,609 INFO 61 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:56:17,664 INFO 61 [egg:core] dump config after load, 16ms
+2018-11-06 00:56:17,669 INFO 61 [egg-mongoose] starting...
+2018-11-06 00:56:17,748 INFO 61 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:56:17,751 INFO 61 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:56:17,755 INFO 61 [egg-watcher:application] watcher start success
+2018-11-06 00:56:17,779 INFO 61 [egg:core] dump config after ready, 17ms
+2018-11-06 00:58:09,493 INFO 73 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:58:09,714 INFO 73 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:58:09,714 INFO 73 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:58:09,715 INFO 73 [egg-multipart] stream mode enable
+2018-11-06 00:58:12,044 INFO 73 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:58:12,645 INFO 73 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:58:12,660 INFO 73 [egg-security] use methodnoallow middleware
+2018-11-06 00:58:12,666 INFO 73 [egg-security] use noopen middleware
+2018-11-06 00:58:12,675 INFO 73 [egg-security] use nosniff middleware
+2018-11-06 00:58:12,678 INFO 73 [egg-security] use xssProtection middleware
+2018-11-06 00:58:12,681 INFO 73 [egg-security] use xframe middleware
+2018-11-06 00:58:12,685 INFO 73 [egg-security] use dta middleware
+2018-11-06 00:58:12,685 INFO 73 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:58:12,733 INFO 73 [egg:core] dump config after load, 16ms
+2018-11-06 00:58:12,738 INFO 73 [egg-mongoose] starting...
+2018-11-06 00:58:12,789 INFO 73 [egg-watcher:application] watcher start success
+2018-11-06 00:58:12,806 INFO 73 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:58:12,809 INFO 73 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:58:12,828 INFO 73 [egg:core] dump config after ready, 16ms
+2018-11-06 00:58:20,152 INFO 85 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:58:20,427 INFO 85 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:58:20,427 INFO 85 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:58:20,428 INFO 85 [egg-multipart] stream mode enable
+2018-11-06 00:58:23,465 INFO 85 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:58:24,360 INFO 85 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:58:24,376 INFO 85 [egg-security] use methodnoallow middleware
+2018-11-06 00:58:24,382 INFO 85 [egg-security] use noopen middleware
+2018-11-06 00:58:24,405 INFO 85 [egg-security] use nosniff middleware
+2018-11-06 00:58:24,410 INFO 85 [egg-security] use xssProtection middleware
+2018-11-06 00:58:24,414 INFO 85 [egg-security] use xframe middleware
+2018-11-06 00:58:24,419 INFO 85 [egg-security] use dta middleware
+2018-11-06 00:58:24,419 INFO 85 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:58:24,475 INFO 85 [egg:core] dump config after load, 17ms
+2018-11-06 00:58:24,481 INFO 85 [egg-mongoose] starting...
+2018-11-06 00:58:24,553 INFO 85 [egg-watcher:application] watcher start success
+2018-11-06 00:58:24,565 INFO 85 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:58:24,568 INFO 85 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:58:24,600 INFO 85 [egg:core] dump config after ready, 27ms
+2018-11-06 00:59:32,426 INFO 97 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:59:32,655 INFO 97 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:59:32,655 INFO 97 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:59:32,656 INFO 97 [egg-multipart] stream mode enable
+2018-11-06 00:59:35,235 INFO 97 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:59:36,015 INFO 97 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:59:36,040 INFO 97 [egg-security] use methodnoallow middleware
+2018-11-06 00:59:36,054 INFO 97 [egg-security] use noopen middleware
+2018-11-06 00:59:36,074 INFO 97 [egg-security] use nosniff middleware
+2018-11-06 00:59:36,079 INFO 97 [egg-security] use xssProtection middleware
+2018-11-06 00:59:36,086 INFO 97 [egg-security] use xframe middleware
+2018-11-06 00:59:36,090 INFO 97 [egg-security] use dta middleware
+2018-11-06 00:59:36,091 INFO 97 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:59:36,170 INFO 97 [egg:core] dump config after load, 24ms
+2018-11-06 00:59:36,176 INFO 97 [egg-mongoose] starting...
+2018-11-06 00:59:36,265 INFO 97 [egg-watcher:application] watcher start success
+2018-11-06 00:59:36,276 INFO 97 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 00:59:36,278 INFO 97 [egg-mongoose] instance[0] start successfully
+2018-11-06 00:59:36,302 INFO 97 [egg:core] dump config after ready, 20ms
+2018-11-06 00:59:55,429 INFO 109 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 00:59:55,751 INFO 109 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 00:59:55,751 INFO 109 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 00:59:55,752 INFO 109 [egg-multipart] stream mode enable
+2018-11-06 00:59:58,589 INFO 109 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 00:59:59,540 INFO 109 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 00:59:59,563 INFO 109 [egg-security] use methodnoallow middleware
+2018-11-06 00:59:59,573 INFO 109 [egg-security] use noopen middleware
+2018-11-06 00:59:59,590 INFO 109 [egg-security] use nosniff middleware
+2018-11-06 00:59:59,596 INFO 109 [egg-security] use xssProtection middleware
+2018-11-06 00:59:59,601 INFO 109 [egg-security] use xframe middleware
+2018-11-06 00:59:59,605 INFO 109 [egg-security] use dta middleware
+2018-11-06 00:59:59,605 INFO 109 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 00:59:59,692 INFO 109 [egg:core] dump config after load, 26ms
+2018-11-06 00:59:59,698 INFO 109 [egg-mongoose] starting...
+2018-11-06 00:59:59,832 INFO 109 [egg:core] dump config after ready, 32ms
+2018-11-06 00:59:59,849 INFO 109 [egg-watcher:application] watcher start success
+2018-11-06 01:01:09,708 INFO 121 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:01:09,902 INFO 121 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:01:09,902 INFO 121 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:01:09,903 INFO 121 [egg-multipart] stream mode enable
+2018-11-06 01:01:12,319 INFO 121 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:01:12,909 INFO 121 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:01:12,925 INFO 121 [egg-security] use methodnoallow middleware
+2018-11-06 01:01:12,931 INFO 121 [egg-security] use noopen middleware
+2018-11-06 01:01:12,939 INFO 121 [egg-security] use nosniff middleware
+2018-11-06 01:01:12,943 INFO 121 [egg-security] use xssProtection middleware
+2018-11-06 01:01:12,946 INFO 121 [egg-security] use xframe middleware
+2018-11-06 01:01:12,951 INFO 121 [egg-security] use dta middleware
+2018-11-06 01:01:12,951 INFO 121 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:01:13,004 INFO 121 [egg:core] dump config after load, 16ms
+2018-11-06 01:01:13,008 INFO 121 [egg-mongoose] starting...
+2018-11-06 01:01:13,103 INFO 121 [egg:core] dump config after ready, 20ms
+2018-11-06 01:01:13,116 INFO 121 [egg-watcher:application] watcher start success
+2018-11-06 01:01:35,501 INFO 133 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:01:35,767 INFO 133 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:01:35,767 INFO 133 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:01:35,768 INFO 133 [egg-multipart] stream mode enable
+2018-11-06 01:01:38,849 INFO 133 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:01:39,496 INFO 133 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:01:39,515 INFO 133 [egg-security] use methodnoallow middleware
+2018-11-06 01:01:39,521 INFO 133 [egg-security] use noopen middleware
+2018-11-06 01:01:39,533 INFO 133 [egg-security] use nosniff middleware
+2018-11-06 01:01:39,537 INFO 133 [egg-security] use xssProtection middleware
+2018-11-06 01:01:39,541 INFO 133 [egg-security] use xframe middleware
+2018-11-06 01:01:39,544 INFO 133 [egg-security] use dta middleware
+2018-11-06 01:01:39,544 INFO 133 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:01:39,602 INFO 133 [egg:core] dump config after load, 18ms
+2018-11-06 01:01:39,607 INFO 133 [egg-mongoose] starting...
+2018-11-06 01:01:39,698 INFO 133 [egg:core] dump config after ready, 19ms
+2018-11-06 01:01:39,709 INFO 133 [egg-watcher:application] watcher start success
+2018-11-06 01:01:58,080 INFO 145 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:01:58,247 INFO 145 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:01:58,247 INFO 145 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:01:58,248 INFO 145 [egg-multipart] stream mode enable
+2018-11-06 01:02:00,517 INFO 145 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:02:01,249 INFO 145 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:02:01,266 INFO 145 [egg-security] use methodnoallow middleware
+2018-11-06 01:02:01,272 INFO 145 [egg-security] use noopen middleware
+2018-11-06 01:02:01,281 INFO 145 [egg-security] use nosniff middleware
+2018-11-06 01:02:01,284 INFO 145 [egg-security] use xssProtection middleware
+2018-11-06 01:02:01,288 INFO 145 [egg-security] use xframe middleware
+2018-11-06 01:02:01,292 INFO 145 [egg-security] use dta middleware
+2018-11-06 01:02:01,292 INFO 145 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:02:01,381 INFO 145 [egg:core] dump config after load, 55ms
+2018-11-06 01:02:01,387 INFO 145 [egg-mongoose] starting...
+2018-11-06 01:02:01,494 INFO 145 [egg:core] dump config after ready, 30ms
+2018-11-06 01:02:01,505 INFO 145 [egg-watcher:application] watcher start success
+2018-11-06 01:02:13,664 INFO 157 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:02:13,863 INFO 157 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:02:13,863 INFO 157 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:02:13,864 INFO 157 [egg-multipart] stream mode enable
+2018-11-06 01:02:16,713 INFO 157 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:02:17,450 INFO 157 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:02:17,481 INFO 157 [egg-security] use methodnoallow middleware
+2018-11-06 01:02:17,495 INFO 157 [egg-security] use noopen middleware
+2018-11-06 01:02:17,516 INFO 157 [egg-security] use nosniff middleware
+2018-11-06 01:02:17,522 INFO 157 [egg-security] use xssProtection middleware
+2018-11-06 01:02:17,527 INFO 157 [egg-security] use xframe middleware
+2018-11-06 01:02:17,553 INFO 157 [egg-security] use dta middleware
+2018-11-06 01:02:17,553 INFO 157 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:02:17,623 INFO 157 [egg:core] dump config after load, 20ms
+2018-11-06 01:02:17,628 INFO 157 [egg-mongoose] starting...
+2018-11-06 01:02:17,722 INFO 157 [egg:core] dump config after ready, 18ms
+2018-11-06 01:02:17,735 INFO 157 [egg-watcher:application] watcher start success
+2018-11-06 01:02:31,215 INFO 169 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:02:31,415 INFO 169 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:02:31,415 INFO 169 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:02:31,417 INFO 169 [egg-multipart] stream mode enable
+2018-11-06 01:02:33,735 INFO 169 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:02:34,409 INFO 169 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:02:34,427 INFO 169 [egg-security] use methodnoallow middleware
+2018-11-06 01:02:34,432 INFO 169 [egg-security] use noopen middleware
+2018-11-06 01:02:34,445 INFO 169 [egg-security] use nosniff middleware
+2018-11-06 01:02:34,448 INFO 169 [egg-security] use xssProtection middleware
+2018-11-06 01:02:34,451 INFO 169 [egg-security] use xframe middleware
+2018-11-06 01:02:34,456 INFO 169 [egg-security] use dta middleware
+2018-11-06 01:02:34,456 INFO 169 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:02:34,529 INFO 169 [egg:core] dump config after load, 21ms
+2018-11-06 01:02:34,535 INFO 169 [egg-mongoose] starting...
+2018-11-06 01:02:34,625 INFO 169 [egg:core] dump config after ready, 18ms
+2018-11-06 01:02:34,636 INFO 169 [egg-watcher:application] watcher start success
+2018-11-06 01:03:57,338 INFO 181 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:03:57,566 INFO 181 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:03:57,566 INFO 181 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:03:57,567 INFO 181 [egg-multipart] stream mode enable
+2018-11-06 01:04:00,166 INFO 181 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:04:01,304 INFO 181 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:04:01,321 INFO 181 [egg-security] use methodnoallow middleware
+2018-11-06 01:04:01,327 INFO 181 [egg-security] use noopen middleware
+2018-11-06 01:04:01,339 INFO 181 [egg-security] use nosniff middleware
+2018-11-06 01:04:01,346 INFO 181 [egg-security] use xssProtection middleware
+2018-11-06 01:04:01,350 INFO 181 [egg-security] use xframe middleware
+2018-11-06 01:04:01,355 INFO 181 [egg-security] use dta middleware
+2018-11-06 01:04:01,355 INFO 181 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:04:01,413 INFO 181 [egg:core] dump config after load, 20ms
+2018-11-06 01:04:01,419 INFO 181 [egg-mongoose] starting...
+2018-11-06 01:04:01,519 INFO 181 [egg:core] dump config after ready, 18ms
+2018-11-06 01:04:01,532 INFO 181 [egg-watcher:application] watcher start success
+2018-11-06 01:13:12,144 INFO 193 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:13:12,351 INFO 193 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:13:12,351 INFO 193 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:13:12,352 INFO 193 [egg-multipart] stream mode enable
+2018-11-06 01:13:14,792 INFO 193 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:13:15,520 INFO 193 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:13:15,540 INFO 193 [egg-security] use methodnoallow middleware
+2018-11-06 01:13:15,547 INFO 193 [egg-security] use noopen middleware
+2018-11-06 01:13:15,559 INFO 193 [egg-security] use nosniff middleware
+2018-11-06 01:13:15,565 INFO 193 [egg-security] use xssProtection middleware
+2018-11-06 01:13:15,569 INFO 193 [egg-security] use xframe middleware
+2018-11-06 01:13:15,573 INFO 193 [egg-security] use dta middleware
+2018-11-06 01:13:15,573 INFO 193 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:13:15,635 INFO 193 [egg:core] dump config after load, 20ms
+2018-11-06 01:13:15,639 INFO 193 [egg-mongoose] starting...
+2018-11-06 01:13:15,732 INFO 193 [egg:core] dump config after ready, 18ms
+2018-11-06 01:13:15,743 INFO 193 [egg-watcher:application] watcher start success
+2018-11-06 01:13:45,082 INFO 205 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:13:45,294 INFO 205 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:13:45,294 INFO 205 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:13:45,295 INFO 205 [egg-multipart] stream mode enable
+2018-11-06 01:13:47,923 INFO 205 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:13:48,648 INFO 205 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:13:48,666 INFO 205 [egg-security] use methodnoallow middleware
+2018-11-06 01:13:48,673 INFO 205 [egg-security] use noopen middleware
+2018-11-06 01:13:48,684 INFO 205 [egg-security] use nosniff middleware
+2018-11-06 01:13:48,690 INFO 205 [egg-security] use xssProtection middleware
+2018-11-06 01:13:48,693 INFO 205 [egg-security] use xframe middleware
+2018-11-06 01:13:48,697 INFO 205 [egg-security] use dta middleware
+2018-11-06 01:13:48,697 INFO 205 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:13:48,753 INFO 205 [egg:core] dump config after load, 18ms
+2018-11-06 01:13:48,758 INFO 205 [egg-mongoose] starting...
+2018-11-06 01:13:48,855 INFO 205 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:13:48,858 INFO 205 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:13:48,862 INFO 205 [egg-watcher:application] watcher start success
+2018-11-06 01:13:48,883 INFO 205 [egg:core] dump config after ready, 17ms
+2018-11-06 01:14:32,416 INFO 217 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:14:32,607 INFO 217 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:14:32,607 INFO 217 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:14:32,608 INFO 217 [egg-multipart] stream mode enable
+2018-11-06 01:14:35,237 INFO 217 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:14:35,742 INFO 217 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:14:35,758 INFO 217 [egg-security] use methodnoallow middleware
+2018-11-06 01:14:35,763 INFO 217 [egg-security] use noopen middleware
+2018-11-06 01:14:35,773 INFO 217 [egg-security] use nosniff middleware
+2018-11-06 01:14:35,777 INFO 217 [egg-security] use xssProtection middleware
+2018-11-06 01:14:35,780 INFO 217 [egg-security] use xframe middleware
+2018-11-06 01:14:35,785 INFO 217 [egg-security] use dta middleware
+2018-11-06 01:14:35,785 INFO 217 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:14:35,838 INFO 217 [egg:core] dump config after load, 16ms
+2018-11-06 01:14:35,843 INFO 217 [egg-mongoose] starting...
+2018-11-06 01:14:35,915 INFO 217 [egg-watcher:application] watcher start success
+2018-11-06 01:14:35,926 INFO 217 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:14:35,928 INFO 217 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:14:35,946 INFO 217 [egg:core] dump config after ready, 14ms
+2018-11-06 01:15:06,250 INFO 229 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:15:06,424 INFO 229 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:15:06,424 INFO 229 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:15:06,425 INFO 229 [egg-multipart] stream mode enable
+2018-11-06 01:15:09,376 INFO 229 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:15:10,206 INFO 229 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:15:10,231 INFO 229 [egg-security] use methodnoallow middleware
+2018-11-06 01:15:10,237 INFO 229 [egg-security] use noopen middleware
+2018-11-06 01:15:10,251 INFO 229 [egg-security] use nosniff middleware
+2018-11-06 01:15:10,256 INFO 229 [egg-security] use xssProtection middleware
+2018-11-06 01:15:10,260 INFO 229 [egg-security] use xframe middleware
+2018-11-06 01:15:10,264 INFO 229 [egg-security] use dta middleware
+2018-11-06 01:15:10,264 INFO 229 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:15:10,320 INFO 229 [egg:core] dump config after load, 18ms
+2018-11-06 01:15:10,326 INFO 229 [egg-mongoose] starting...
+2018-11-06 01:15:10,414 INFO 229 [egg-watcher:application] watcher start success
+2018-11-06 01:15:10,426 INFO 229 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:15:10,428 INFO 229 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:15:10,449 INFO 229 [egg:core] dump config after ready, 16ms
+2018-11-06 01:15:33,093 INFO 241 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:15:33,304 INFO 241 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:15:33,304 INFO 241 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:15:33,305 INFO 241 [egg-multipart] stream mode enable
+2018-11-06 01:15:35,941 INFO 241 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:15:36,590 INFO 241 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:15:36,609 INFO 241 [egg-security] use methodnoallow middleware
+2018-11-06 01:15:36,618 INFO 241 [egg-security] use noopen middleware
+2018-11-06 01:15:36,631 INFO 241 [egg-security] use nosniff middleware
+2018-11-06 01:15:36,636 INFO 241 [egg-security] use xssProtection middleware
+2018-11-06 01:15:36,640 INFO 241 [egg-security] use xframe middleware
+2018-11-06 01:15:36,644 INFO 241 [egg-security] use dta middleware
+2018-11-06 01:15:36,644 INFO 241 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:15:36,710 INFO 241 [egg:core] dump config after load, 18ms
+2018-11-06 01:15:36,715 INFO 241 [egg-mongoose] starting...
+2018-11-06 01:15:36,808 INFO 241 [egg-watcher:application] watcher start success
+2018-11-06 01:15:36,818 INFO 241 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:15:36,822 INFO 241 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:15:36,849 INFO 241 [egg:core] dump config after ready, 22ms
+2018-11-06 01:16:18,069 INFO 253 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:16:18,293 INFO 253 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:16:18,293 INFO 253 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:16:18,294 INFO 253 [egg-multipart] stream mode enable
+2018-11-06 01:16:20,707 INFO 253 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:16:21,355 INFO 253 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:16:21,374 INFO 253 [egg-security] use methodnoallow middleware
+2018-11-06 01:16:21,381 INFO 253 [egg-security] use noopen middleware
+2018-11-06 01:16:21,391 INFO 253 [egg-security] use nosniff middleware
+2018-11-06 01:16:21,395 INFO 253 [egg-security] use xssProtection middleware
+2018-11-06 01:16:21,400 INFO 253 [egg-security] use xframe middleware
+2018-11-06 01:16:21,403 INFO 253 [egg-security] use dta middleware
+2018-11-06 01:16:21,404 INFO 253 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:16:21,459 INFO 253 [egg:core] dump config after load, 18ms
+2018-11-06 01:16:21,464 INFO 253 [egg-mongoose] starting...
+2018-11-06 01:16:21,554 INFO 253 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:16:21,557 INFO 253 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:16:21,561 INFO 253 [egg-watcher:application] watcher start success
+2018-11-06 01:16:21,584 INFO 253 [egg:core] dump config after ready, 19ms
+2018-11-06 01:17:45,203 INFO 265 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:17:45,438 INFO 265 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:17:45,438 INFO 265 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:17:45,439 INFO 265 [egg-multipart] stream mode enable
+2018-11-06 01:17:47,843 INFO 265 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:17:48,378 INFO 265 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:17:48,396 INFO 265 [egg-security] use methodnoallow middleware
+2018-11-06 01:17:48,414 INFO 265 [egg-security] use noopen middleware
+2018-11-06 01:17:48,429 INFO 265 [egg-security] use nosniff middleware
+2018-11-06 01:17:48,434 INFO 265 [egg-security] use xssProtection middleware
+2018-11-06 01:17:48,438 INFO 265 [egg-security] use xframe middleware
+2018-11-06 01:17:48,441 INFO 265 [egg-security] use dta middleware
+2018-11-06 01:17:48,441 INFO 265 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:17:48,492 INFO 265 [egg:core] dump config after load, 15ms
+2018-11-06 01:17:48,497 INFO 265 [egg-mongoose] starting...
+2018-11-06 01:17:48,580 INFO 265 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:17:48,582 INFO 265 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:17:48,586 INFO 265 [egg-watcher:application] watcher start success
+2018-11-06 01:17:48,605 INFO 265 [egg:core] dump config after ready, 15ms
+2018-11-06 01:19:26,166 INFO 277 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:19:26,430 INFO 277 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:19:26,430 INFO 277 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:19:26,431 INFO 277 [egg-multipart] stream mode enable
+2018-11-06 01:19:28,867 INFO 277 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:19:29,503 INFO 277 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:19:29,519 INFO 277 [egg-security] use methodnoallow middleware
+2018-11-06 01:19:29,526 INFO 277 [egg-security] use noopen middleware
+2018-11-06 01:19:29,536 INFO 277 [egg-security] use nosniff middleware
+2018-11-06 01:19:29,539 INFO 277 [egg-security] use xssProtection middleware
+2018-11-06 01:19:29,543 INFO 277 [egg-security] use xframe middleware
+2018-11-06 01:19:29,548 INFO 277 [egg-security] use dta middleware
+2018-11-06 01:19:29,548 INFO 277 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:19:29,601 INFO 277 [egg:core] dump config after load, 18ms
+2018-11-06 01:19:29,606 INFO 277 [egg-mongoose] starting...
+2018-11-06 01:19:29,706 INFO 277 [egg-watcher:application] watcher start success
+2018-11-06 01:19:29,729 INFO 277 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:19:29,732 INFO 277 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:19:29,760 INFO 277 [egg:core] dump config after ready, 22ms
+2018-11-06 01:22:05,016 INFO 289 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:22:05,238 INFO 289 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:22:05,239 INFO 289 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:22:05,240 INFO 289 [egg-multipart] stream mode enable
+2018-11-06 01:22:08,106 INFO 289 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:22:08,835 INFO 289 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:22:08,854 INFO 289 [egg-security] use methodnoallow middleware
+2018-11-06 01:22:08,862 INFO 289 [egg-security] use noopen middleware
+2018-11-06 01:22:08,874 INFO 289 [egg-security] use nosniff middleware
+2018-11-06 01:22:08,879 INFO 289 [egg-security] use xssProtection middleware
+2018-11-06 01:22:08,883 INFO 289 [egg-security] use xframe middleware
+2018-11-06 01:22:08,887 INFO 289 [egg-security] use dta middleware
+2018-11-06 01:22:08,887 INFO 289 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:22:08,946 INFO 289 [egg:core] dump config after load, 19ms
+2018-11-06 01:22:08,951 INFO 289 [egg-mongoose] starting...
+2018-11-06 01:22:09,040 INFO 289 [egg-watcher:application] watcher start success
+2018-11-06 01:22:09,053 INFO 289 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:22:09,056 INFO 289 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:22:09,082 INFO 289 [egg:core] dump config after ready, 19ms
+2018-11-06 01:29:14,336 INFO 301 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:29:15,018 INFO 301 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:29:15,019 INFO 301 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:29:15,020 INFO 301 [egg-multipart] stream mode enable
+2018-11-06 01:29:18,311 INFO 301 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:29:19,774 INFO 301 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:29:19,794 INFO 301 [egg-security] use methodnoallow middleware
+2018-11-06 01:29:19,803 INFO 301 [egg-security] use noopen middleware
+2018-11-06 01:29:19,818 INFO 301 [egg-security] use nosniff middleware
+2018-11-06 01:29:19,823 INFO 301 [egg-security] use xssProtection middleware
+2018-11-06 01:29:19,828 INFO 301 [egg-security] use xframe middleware
+2018-11-06 01:29:19,834 INFO 301 [egg-security] use dta middleware
+2018-11-06 01:29:19,834 INFO 301 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:29:19,927 INFO 301 [egg:core] dump config after load, 46ms
+2018-11-06 01:29:19,932 INFO 301 [egg-mongoose] starting...
+2018-11-06 01:29:20,050 INFO 301 [egg-watcher:application] watcher start success
+2018-11-06 01:29:20,072 INFO 301 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:29:20,075 INFO 301 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:29:20,105 INFO 301 [egg:core] dump config after ready, 25ms
+2018-11-06 01:30:03,612 INFO 313 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:30:03,841 INFO 313 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:30:03,841 INFO 313 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:30:03,842 INFO 313 [egg-multipart] stream mode enable
+2018-11-06 01:30:06,209 INFO 313 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:30:06,795 INFO 313 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:30:06,811 INFO 313 [egg-security] use methodnoallow middleware
+2018-11-06 01:30:06,836 INFO 313 [egg-security] use noopen middleware
+2018-11-06 01:30:06,848 INFO 313 [egg-security] use nosniff middleware
+2018-11-06 01:30:06,852 INFO 313 [egg-security] use xssProtection middleware
+2018-11-06 01:30:06,857 INFO 313 [egg-security] use xframe middleware
+2018-11-06 01:30:06,860 INFO 313 [egg-security] use dta middleware
+2018-11-06 01:30:06,860 INFO 313 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:30:06,913 INFO 313 [egg:core] dump config after load, 15ms
+2018-11-06 01:30:06,918 INFO 313 [egg-mongoose] starting...
+2018-11-06 01:30:07,018 INFO 313 [egg-watcher:application] watcher start success
+2018-11-06 01:30:07,032 INFO 313 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:30:07,035 INFO 313 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:30:07,057 INFO 313 [egg:core] dump config after ready, 17ms
+2018-11-06 01:33:58,346 INFO 325 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 01:33:58,539 INFO 325 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 01:33:58,540 INFO 325 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 01:33:58,541 INFO 325 [egg-multipart] stream mode enable
+2018-11-06 01:34:00,828 INFO 325 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 01:34:01,382 INFO 325 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 01:34:01,403 INFO 325 [egg-security] use methodnoallow middleware
+2018-11-06 01:34:01,411 INFO 325 [egg-security] use noopen middleware
+2018-11-06 01:34:01,423 INFO 325 [egg-security] use nosniff middleware
+2018-11-06 01:34:01,427 INFO 325 [egg-security] use xssProtection middleware
+2018-11-06 01:34:01,433 INFO 325 [egg-security] use xframe middleware
+2018-11-06 01:34:01,437 INFO 325 [egg-security] use dta middleware
+2018-11-06 01:34:01,437 INFO 325 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 01:34:01,509 INFO 325 [egg:core] dump config after load, 26ms
+2018-11-06 01:34:01,515 INFO 325 [egg-mongoose] starting...
+2018-11-06 01:34:01,600 INFO 325 [egg-watcher:application] watcher start success
+2018-11-06 01:34:01,610 INFO 325 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 01:34:01,613 INFO 325 [egg-mongoose] instance[0] start successfully
+2018-11-06 01:34:01,634 INFO 325 [egg:core] dump config after ready, 16ms
+2018-11-06 04:54:50,883 INFO 337 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 04:54:51,138 INFO 337 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 04:54:51,138 INFO 337 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 04:54:51,140 INFO 337 [egg-multipart] stream mode enable
+2018-11-06 04:54:54,459 INFO 337 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 04:54:55,500 INFO 337 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 04:54:55,517 INFO 337 [egg-security] use methodnoallow middleware
+2018-11-06 04:54:55,524 INFO 337 [egg-security] use noopen middleware
+2018-11-06 04:54:55,534 INFO 337 [egg-security] use nosniff middleware
+2018-11-06 04:54:55,537 INFO 337 [egg-security] use xssProtection middleware
+2018-11-06 04:54:55,541 INFO 337 [egg-security] use xframe middleware
+2018-11-06 04:54:55,547 INFO 337 [egg-security] use dta middleware
+2018-11-06 04:54:55,547 INFO 337 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 04:54:55,609 INFO 337 [egg:core] dump config after load, 19ms
+2018-11-06 04:54:55,614 INFO 337 [egg-mongoose] starting...
+2018-11-06 04:54:55,703 INFO 337 [egg-watcher:application] watcher start success
+2018-11-06 04:54:55,729 INFO 337 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 04:54:55,731 INFO 337 [egg-mongoose] instance[0] start successfully
+2018-11-06 04:54:55,760 INFO 337 [egg:core] dump config after ready, 23ms
+2018-11-06 05:07:41,090 WARN 337 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-06 05:23:10,592 WARN 337 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-06 05:33:20,158 WARN 337 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-06 05:50:47,634 INFO 349 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 05:50:47,849 INFO 349 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 05:50:47,849 INFO 349 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 05:50:47,850 INFO 349 [egg-multipart] stream mode enable
+2018-11-06 05:50:50,736 INFO 349 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 05:50:51,468 INFO 349 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 05:50:51,485 INFO 349 [egg-security] use methodnoallow middleware
+2018-11-06 05:50:51,490 INFO 349 [egg-security] use noopen middleware
+2018-11-06 05:50:51,501 INFO 349 [egg-security] use nosniff middleware
+2018-11-06 05:50:51,505 INFO 349 [egg-security] use xssProtection middleware
+2018-11-06 05:50:51,509 INFO 349 [egg-security] use xframe middleware
+2018-11-06 05:50:51,512 INFO 349 [egg-security] use dta middleware
+2018-11-06 05:50:51,512 INFO 349 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 05:50:51,575 INFO 349 [egg:core] dump config after load, 24ms
+2018-11-06 05:50:51,579 INFO 349 [egg-mongoose] starting...
+2018-11-06 05:50:51,664 INFO 349 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 05:50:51,667 INFO 349 [egg-mongoose] instance[0] start successfully
+2018-11-06 05:50:51,671 INFO 349 [egg-watcher:application] watcher start success
+2018-11-06 05:50:51,693 INFO 349 [egg:core] dump config after ready, 18ms
+2018-11-06 05:51:35,495 INFO 361 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 05:51:35,697 INFO 361 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 05:51:35,697 INFO 361 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 05:51:35,698 INFO 361 [egg-multipart] stream mode enable
+2018-11-06 05:51:38,227 INFO 361 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 05:51:38,807 INFO 361 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 05:51:38,826 INFO 361 [egg-security] use methodnoallow middleware
+2018-11-06 05:51:38,833 INFO 361 [egg-security] use noopen middleware
+2018-11-06 05:51:38,848 INFO 361 [egg-security] use nosniff middleware
+2018-11-06 05:51:38,856 INFO 361 [egg-security] use xssProtection middleware
+2018-11-06 05:51:38,862 INFO 361 [egg-security] use xframe middleware
+2018-11-06 05:51:38,867 INFO 361 [egg-security] use dta middleware
+2018-11-06 05:51:38,867 INFO 361 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 05:51:38,939 INFO 361 [egg:core] dump config after load, 23ms
+2018-11-06 05:51:38,944 INFO 361 [egg-mongoose] starting...
+2018-11-06 05:51:39,052 INFO 361 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 05:51:39,056 INFO 361 [egg-mongoose] instance[0] start successfully
+2018-11-06 05:51:39,060 INFO 361 [egg-watcher:application] watcher start success
+2018-11-06 05:51:39,083 INFO 361 [egg:core] dump config after ready, 18ms
+2018-11-06 05:53:30,620 INFO 373 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 05:53:30,888 INFO 373 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 05:53:30,888 INFO 373 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 05:53:30,890 INFO 373 [egg-multipart] stream mode enable
+2018-11-06 05:53:33,598 INFO 373 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 05:53:34,268 INFO 373 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 05:53:34,286 INFO 373 [egg-security] use methodnoallow middleware
+2018-11-06 05:53:34,293 INFO 373 [egg-security] use noopen middleware
+2018-11-06 05:53:34,304 INFO 373 [egg-security] use nosniff middleware
+2018-11-06 05:53:34,307 INFO 373 [egg-security] use xssProtection middleware
+2018-11-06 05:53:34,312 INFO 373 [egg-security] use xframe middleware
+2018-11-06 05:53:34,316 INFO 373 [egg-security] use dta middleware
+2018-11-06 05:53:34,316 INFO 373 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 05:53:34,380 INFO 373 [egg:core] dump config after load, 18ms
+2018-11-06 05:53:34,385 INFO 373 [egg-mongoose] starting...
+2018-11-06 05:53:34,473 INFO 373 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 05:53:34,476 INFO 373 [egg-mongoose] instance[0] start successfully
+2018-11-06 05:53:34,480 INFO 373 [egg-watcher:application] watcher start success
+2018-11-06 05:53:34,500 INFO 373 [egg:core] dump config after ready, 16ms
+2018-11-06 05:54:14,823 INFO 385 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 05:54:15,089 INFO 385 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 05:54:15,089 INFO 385 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 05:54:15,090 INFO 385 [egg-multipart] stream mode enable
+2018-11-06 05:54:17,712 INFO 385 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 05:54:18,395 INFO 385 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 05:54:18,433 INFO 385 [egg-security] use methodnoallow middleware
+2018-11-06 05:54:18,439 INFO 385 [egg-security] use noopen middleware
+2018-11-06 05:54:18,458 INFO 385 [egg-security] use nosniff middleware
+2018-11-06 05:54:18,464 INFO 385 [egg-security] use xssProtection middleware
+2018-11-06 05:54:18,468 INFO 385 [egg-security] use xframe middleware
+2018-11-06 05:54:18,473 INFO 385 [egg-security] use dta middleware
+2018-11-06 05:54:18,473 INFO 385 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 05:54:18,531 INFO 385 [egg:core] dump config after load, 17ms
+2018-11-06 05:54:18,536 INFO 385 [egg-mongoose] starting...
+2018-11-06 05:54:18,620 INFO 385 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 05:54:18,623 INFO 385 [egg-mongoose] instance[0] start successfully
+2018-11-06 05:54:18,627 INFO 385 [egg-watcher:application] watcher start success
+2018-11-06 05:54:18,647 INFO 385 [egg:core] dump config after ready, 16ms
+2018-11-06 07:44:40,741 WARN 385 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-06 07:47:37,558 INFO 397 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 07:47:37,751 INFO 397 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 07:47:37,751 INFO 397 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 07:47:37,752 INFO 397 [egg-multipart] stream mode enable
+2018-11-06 07:47:40,351 INFO 397 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 07:47:41,055 INFO 397 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 07:47:41,075 INFO 397 [egg-security] use methodnoallow middleware
+2018-11-06 07:47:41,083 INFO 397 [egg-security] use noopen middleware
+2018-11-06 07:47:41,099 INFO 397 [egg-security] use nosniff middleware
+2018-11-06 07:47:41,106 INFO 397 [egg-security] use xssProtection middleware
+2018-11-06 07:47:41,111 INFO 397 [egg-security] use xframe middleware
+2018-11-06 07:47:41,117 INFO 397 [egg-security] use dta middleware
+2018-11-06 07:47:41,118 INFO 397 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 07:47:41,179 INFO 397 [egg:core] dump config after load, 20ms
+2018-11-06 07:47:41,184 INFO 397 [egg-mongoose] starting...
+2018-11-06 07:47:41,279 INFO 397 [egg-watcher:application] watcher start success
+2018-11-06 07:47:41,310 INFO 397 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 07:47:41,313 INFO 397 [egg-mongoose] instance[0] start successfully
+2018-11-06 07:47:41,334 INFO 397 [egg:core] dump config after ready, 17ms
+2018-11-06 07:48:01,637 INFO 409 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 07:48:01,913 INFO 409 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 07:48:01,913 INFO 409 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 07:48:01,915 INFO 409 [egg-multipart] stream mode enable
+2018-11-06 07:48:05,197 INFO 409 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 07:48:05,761 INFO 409 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 07:48:05,779 INFO 409 [egg-security] use methodnoallow middleware
+2018-11-06 07:48:05,787 INFO 409 [egg-security] use noopen middleware
+2018-11-06 07:48:05,799 INFO 409 [egg-security] use nosniff middleware
+2018-11-06 07:48:05,806 INFO 409 [egg-security] use xssProtection middleware
+2018-11-06 07:48:05,810 INFO 409 [egg-security] use xframe middleware
+2018-11-06 07:48:05,814 INFO 409 [egg-security] use dta middleware
+2018-11-06 07:48:05,814 INFO 409 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 07:48:05,866 INFO 409 [egg:core] dump config after load, 15ms
+2018-11-06 07:48:05,871 INFO 409 [egg-mongoose] starting...
+2018-11-06 07:48:05,964 INFO 409 [egg-watcher:application] watcher start success
+2018-11-06 07:48:05,989 INFO 409 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 07:48:05,992 INFO 409 [egg-mongoose] instance[0] start successfully
+2018-11-06 07:48:06,021 INFO 409 [egg:core] dump config after ready, 23ms
+2018-11-06 07:48:25,882 INFO 421 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 07:48:26,141 INFO 421 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 07:48:26,141 INFO 421 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 07:48:26,142 INFO 421 [egg-multipart] stream mode enable
+2018-11-06 07:48:28,952 INFO 421 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 07:48:29,703 INFO 421 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 07:48:29,723 INFO 421 [egg-security] use methodnoallow middleware
+2018-11-06 07:48:29,731 INFO 421 [egg-security] use noopen middleware
+2018-11-06 07:48:29,751 INFO 421 [egg-security] use nosniff middleware
+2018-11-06 07:48:29,755 INFO 421 [egg-security] use xssProtection middleware
+2018-11-06 07:48:29,759 INFO 421 [egg-security] use xframe middleware
+2018-11-06 07:48:29,763 INFO 421 [egg-security] use dta middleware
+2018-11-06 07:48:29,763 INFO 421 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 07:48:29,830 INFO 421 [egg:core] dump config after load, 19ms
+2018-11-06 07:48:29,835 INFO 421 [egg-mongoose] starting...
+2018-11-06 07:48:29,932 INFO 421 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 07:48:29,936 INFO 421 [egg-mongoose] instance[0] start successfully
+2018-11-06 07:48:29,941 INFO 421 [egg-watcher:application] watcher start success
+2018-11-06 07:48:29,965 INFO 421 [egg:core] dump config after ready, 19ms
+2018-11-06 07:48:56,771 INFO 433 [egg:logger] init all loggers with options: {"dir":"/usr/src/app/logs/node_dockerize_egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"node_dockerize_egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-06 07:48:56,984 INFO 433 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-06 07:48:56,984 INFO 433 [egg-schedule]: register schedule /usr/src/app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-06 07:48:56,985 INFO 433 [egg-multipart] stream mode enable
+2018-11-06 07:48:59,712 INFO 433 [egg-mongoose] connecting mongodb://db:27017/example
+2018-11-06 07:49:00,509 INFO 433 [egg-static] starting static serve /public/ -> /usr/src/app/app/public
+2018-11-06 07:49:00,531 INFO 433 [egg-security] use methodnoallow middleware
+2018-11-06 07:49:00,538 INFO 433 [egg-security] use noopen middleware
+2018-11-06 07:49:00,550 INFO 433 [egg-security] use nosniff middleware
+2018-11-06 07:49:00,556 INFO 433 [egg-security] use xssProtection middleware
+2018-11-06 07:49:00,560 INFO 433 [egg-security] use xframe middleware
+2018-11-06 07:49:00,564 INFO 433 [egg-security] use dta middleware
+2018-11-06 07:49:00,564 INFO 433 [egg-security] compose 6 middlewares into one security middleware
+2018-11-06 07:49:00,623 INFO 433 [egg:core] dump config after load, 17ms
+2018-11-06 07:49:00,627 INFO 433 [egg-mongoose] starting...
+2018-11-06 07:49:00,712 INFO 433 [egg-watcher:application] watcher start success
+2018-11-06 07:49:00,723 INFO 433 [egg-mongoose] mongodb://db:27017/example connected successfully
+2018-11-06 07:49:00,726 INFO 433 [egg-mongoose] instance[0] start successfully
+2018-11-06 07:49:00,752 INFO 433 [egg:core] dump config after ready, 21ms

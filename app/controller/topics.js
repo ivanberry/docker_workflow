@@ -14,11 +14,11 @@ class TopicController extends Controller {
 
 		const { title, content } = ctx.request.body;
 
-		ctx.model.Post.create({ title, content });
+		const id = await ctx.model.Post.create({ title, content });
 		// const id = await ctx.service.topics.create(ctx.request.body);
 
 		ctx.body = {
-			topic_id: 1
+			topic_id: id
 		};
 
 		ctx.status = 201;
@@ -26,7 +26,7 @@ class TopicController extends Controller {
 
 	async index() {
 		const ctx = this.ctx;
-		ctx.body = "Hello xyyyy egg.js";
+		ctx.body = "Hello zyyyy egg.js";
 		ctx.status = 200;
 	}
 }
