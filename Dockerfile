@@ -1,11 +1,17 @@
 FROM node:10-slim
 
-COPY . /app
+RUN mkdir -p /usr/src/app
 
-WORKDIR /app
+WORKDIR /usr/src/app
 
-ENV NODE_ENV=production
+# add npm package
+COPY package.json /usr/src/app/package.json
 
 RUN yarn config set registry 'https://registry.npm.taobao.org' && yarn install
 
-CMD ["yarn", "start"]
+# copy code
+COPY . /usr/src/app
+
+EXPOSE 7001
+
+CMD yarn start

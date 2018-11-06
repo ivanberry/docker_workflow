@@ -6,8 +6,12 @@ services:
       - db
     ports:
       - "5001:7001"
+      - "9999:9999"
+    command:
+      - yarn
+      - debug
     volumes:
-      - .:/app
+      - .:/usr/src/app
     restart: always
   db:
     image: mongo

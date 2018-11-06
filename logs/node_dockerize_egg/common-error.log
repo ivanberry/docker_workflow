@@ -949,3 +949,84 @@ hostname: mpj-dev.local
 pid: 8086
 hostname: mpj-dev.local
 
+2018-11-05 15:29:07,919 ERROR 19781 [egg-mongoose] mongodb://db:27017/example disconnected
+2018-11-05 15:29:07,920 ERROR 19781 nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [db:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND db db:27017]
+    at Pool.<anonymous> (/Users/tab/temp/egg-example/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/Users/tab/temp/egg-example/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/Users/tab/temp/egg-example/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: "MongoNetworkError"
+errorLabels: ["TransientTransactionError"]
+pid: 19781
+hostname: mpj-dev.local
+
+2018-11-05 15:29:07,922 ERROR 19781 [-/127.0.0.1/-/0ms GET /] nodejs.MongoNetworkError: [egg-mongoose]failed to connect to server [db:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND db db:27017]
+    at Pool.<anonymous> (/Users/tab/temp/egg-example/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/Users/tab/temp/egg-example/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/Users/tab/temp/egg-example/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: "MongoNetworkError"
+errorLabels: ["TransientTransactionError"]
+pid: 19781
+hostname: mpj-dev.local
+
+2018-11-05 07:36:58,110 ERROR 48 nodejs.ClusterClientNoResponseError: client no response in 68666ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/usr/src/app/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 48
+hostname: 62c8030410fd
+
+2018-11-05 10:36:16,955 ERROR 48 nodejs.ClusterClientNoResponseError: client no response in 157544ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/usr/src/app/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 48
+hostname: 62c8030410fd
+
+2018-11-05 23:30:07,471 ERROR 48 nodejs.ClusterClientNoResponseError: client no response in 45249323ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/usr/src/app/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 48
+hostname: 62c8030410fd
+
+2018-11-06 00:24:39,332 ERROR 48 nodejs.ClusterClientNoResponseError: client no response in 3251606ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/usr/src/app/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 48
+hostname: 62c8030410fd
+

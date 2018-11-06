@@ -14,8 +14,6 @@ class TopicController extends Controller {
 
 		const { title, content } = ctx.request.body;
 
-		console.log("xxxxx");
-
 		ctx.model.Post.create({ title, content });
 		// const id = await ctx.service.topics.create(ctx.request.body);
 
@@ -24,6 +22,12 @@ class TopicController extends Controller {
 		};
 
 		ctx.status = 201;
+	}
+
+	async index() {
+		const ctx = this.ctx;
+		ctx.body = "Hello xyyyy egg.js";
+		ctx.status = 200;
 	}
 }
 
