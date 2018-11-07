@@ -6,6 +6,7 @@ services:
       - db
     ports:
       - "5001:7001"
+      - "9999:9999"
     volumes:
       - .:/app
     restart: always
