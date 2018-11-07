@@ -12,3 +12,8 @@ exports.mongoose = {
 	enabled: true,
 	package: "egg-mongoose"
 };
+
+exports.reactssr = {
+	enable: true,
+	package: 'egg-view-react-ssr',
+};
