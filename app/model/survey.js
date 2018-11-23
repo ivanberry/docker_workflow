@@ -12,12 +12,19 @@ module.exports = app => {
 		flowList: [{
 			id: Number,
 			flowType: String,
-			outputType: String,
+			logicNodeId: Number,
+			questionId: Number,
+			isRequired: Boolean,
+			nextContent: {
+				logicNodeId: Number,
+				questionId: Number,
+				flowType: String
+			},
+			questionContent: {},
+			logicNodeContent: {}
 		}],
-		questionList: [],
-		logicNodeList: [],
-		lastAnswer: [],
-		answer: []
+		lastAnswer: {},
+		answer:{}
 	});
 
 	return mongoose.model("Survey", SurveyScheam);
